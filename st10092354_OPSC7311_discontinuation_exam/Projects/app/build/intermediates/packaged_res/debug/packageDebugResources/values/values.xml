@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="orange">#eb5f1e</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FFABB6F3</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#A6B7EA</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <item name="contenttextView" type="id"/>
+    <item name="titleTextView" type="id"/>
+    <string name="add_category">Add Category</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="already_have_an_account_login_here">Already have an account? Login here</string>
+    <string name="app_name">Projects</string>
+    <string name="back_button">Back Button</string>
+    <string name="categories">Categories</string>
+    <string name="category">Category</string>
+    <string name="close">Close</string>
+    <string name="communication">Communication</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="don_t_have_an_account_sign_up_here">Don\'t have an account? sign up here</string>
+    <string name="email">Email</string>
+    <string name="end_time">End Time</string>
+    <string name="enter_category_name">Enter Category Name</string>
+    <string name="enter_date_yyyy_mm_dd">Enter Date (YYYY-MM-DD)</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="enter_end_time_hh_mm">Enter End Time (HH:MM)</string>
+    <string name="enter_start_time_hh_mm">Enter Start Time (HH:MM)</string>
+    <string name="expand_all">Expand All</string>
+    <string name="full_name">Full Name</string>
+    <string name="gcm_defaultSenderId" translatable="false">997050448042</string>
+    <string name="google_api_key" translatable="false">AIzaSyB2UBD4AxyMSCaeRBkhLJXDexmxGIgTliA</string>
+    <string name="google_app_id" translatable="false">1:997050448042:android:9454d7f4ee59757690f8d3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB2UBD4AxyMSCaeRBkhLJXDexmxGIgTliA</string>
+    <string name="google_storage_bucket" translatable="false">projects-79ba5.appspot.com</string>
+    <string name="home">Home</string>
+    <string name="login">Login</string>
+    <string name="logout">LogOut</string>
+    <string name="open">Open</string>
+    <string name="password">Password</string>
+    <string name="photo">Photo</string>
+    <string name="profile">Profile</string>
+    <string name="project_id" translatable="false">projects-79ba5</string>
+    <string name="projects">Projects</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="search">Search</string>
+    <string name="share">Share</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signup_email">SignUp Email</string>
+    <string name="signup_password">SignUp Password</string>
+    <string name="start_time">Start Time</string>
+    <string name="submit">Submit</string>
+    <string name="timesheet">Timesheet</string>
+    <string name="tools">Tools</string>
+    <string name="urgent">Urgent</string>
+    <string name="username">Username</string>
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/purple_500</item>
+    </style>
+    <style name="Theme.Material3.DayNight.NoActionBar">
+    <item name="colorPrimary">@color/black</item>
+    <item name="colorPrimaryVariant">@color/black</item>
+    <item name="android:statusBarColor">@color/black</item>
+</style>
+    <style name="Theme.Projects" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

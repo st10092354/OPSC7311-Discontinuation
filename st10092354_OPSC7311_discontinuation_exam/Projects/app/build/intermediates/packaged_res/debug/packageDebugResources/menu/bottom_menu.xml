@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn= "navigation_view">
+ <item
+     android:id="@+id/nav_home"
+     android:title="@string/home"
+     android:icon="@drawable/home_icon"/>
+
+    <item
+        android:id="@+id/nav_categories"
+        android:title="@string/categories"
+        android:icon="@drawable/categories_icon"/>
+
+    <item
+        android:id="@+id/nav_timesheet"
+        android:title="@string/timesheet"
+        android:icon="@drawable/timesheet_icon"/>
+
+    <item
+        android:id="@+id/nav_search"
+        android:title="@string/search"
+        android:icon="@drawable/baseline_search_24"/>
+
+<item android:title="@string/profile">
+
+    <menu>
+        <item
+            android:id="@+id/nav_profile"
+            android:title="@string/profile"
+            android:icon="@drawable/profile_icon"/>
+
+        <item
+            android:id="@+id/nav_logout"
+            android:title="@string/logout"
+            android:icon="@drawable/logout_icon"/>
+    </menu>
+
+</item>
+
+    <item android:title="@string/communication">
+
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:title="@string/share"
+                android:icon="@drawable/share_icon"/>
+
+
+            <item
+                android:id="@+id/nav_tools"
+                android:title="@string/tools"
+                android:icon="@drawable/tool_icon"/>
+        </menu>
+
+    </item>
+
+
+</menu>

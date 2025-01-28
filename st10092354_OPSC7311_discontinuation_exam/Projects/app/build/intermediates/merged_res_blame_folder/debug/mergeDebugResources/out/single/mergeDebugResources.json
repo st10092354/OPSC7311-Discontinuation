@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\layout_activity_hours_by_category.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\layout\\activity_hours_by_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_timesheet_icon.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\timesheet_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\layout_activity_timesheet.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\layout\\activity_timesheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_share_icon.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\share_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_tool_icon.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\tool_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\layout_category_item.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\layout\\category_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_home_icon.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_add_icon.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\add_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_add_photo_icon.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\add_photo_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_categories_icon.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\categories_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\layout_activity_graph.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\layout\\activity_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_login_background.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\login_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\layout_activity_categories.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\layout\\activity_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_profile_icon.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\profile_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_add_icon_white.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\add_icon_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\layout_item_category.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\layout_add_category.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\layout\\add_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_delete_icon.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\delete_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_projects_new_logo.png.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\projects_new_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_save.png.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\save.png"
+    },
+    {
+        "merged": "com.example.projects.app-debug-63:/layout_activity_timesheet.xml.flat",
+        "source": "com.example.projects.app-main-65:/layout/activity_timesheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\layout_activity_add_category.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\layout\\activity_add_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_logout_icon.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\logout_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\layout_activity_timesheet_list.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\layout\\activity_timesheet_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_back_icon.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\back_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-debug-63:\\drawable_black_border.xml.flat",
+        "source": "C:\\Users\\junio\\.gradle\\daemon\\8.4\\com.example.projects.app-main-65:\\drawable\\black_border.xml"
+    }
+]
